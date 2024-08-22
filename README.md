@@ -1,6 +1,6 @@
 ![Yabbi’s Github](https://github.com/user-attachments/assets/677ab53e-a67c-456f-bdfd-2acf092c7a7e)
 ## WELCOME! 👋
-**`Future software engineer`**
+**`Software engineer in training`**
 - 🔭 I’m currently working on: [Bright Tasks](https://github.com/KajananGit/Bright-Tasks)
 - 🌱 I’m currently learning: **TypeScript**
 - 📝 Want to get better at: **Testing**
