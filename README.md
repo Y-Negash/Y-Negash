@@ -1,7 +1,7 @@
 ![Yabbi’s Github](https://github.com/user-attachments/assets/677ab53e-a67c-456f-bdfd-2acf092c7a7e)
 ## WELCOME! 👋
 **`Software engineer in training`**
-- 🔭 I’m currently working on: [Bright Tasks](https://github.com/KajananGit/Bright-Tasks)
+- 🔭 I’m currently working on: [Bright Tasks](https://github.com/KajananGit/Bright-Tasks) & [Trading Journal](https://github.com/Y-Negash/Trading_Journal)
 - 🌱 I’m currently learning: **TypeScript**
 - 📝 Want to get better at: **Testing**
 - 🛅 Just "finished" working on: [Connect Cards](https://github.com/Aebel-Shajan/connect-cards)  (go ahead and contribute, if you'd like!)
