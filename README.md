@@ -1,4 +1,4 @@
-## Welcome, I'm Yabbi! 👋
+# Welcome, I'm Yabbi! 👋
 **`Software engineer in training`**
 - 🔭 I’m currently working on: [Bright Tasks](https://github.com/KajananGit/Bright-Tasks) & [Trading Journal](https://github.com/Y-Negash/Trading_Journal)
 - 🌱 I’m currently learning: **TypeScript**
