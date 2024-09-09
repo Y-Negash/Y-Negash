@@ -1,5 +1,4 @@
-![Yabbi’s Github](https://github.com/user-attachments/assets/677ab53e-a67c-456f-bdfd-2acf092c7a7e)
-## WELCOME! 👋
+## Welcome, I'm Yabbi! 👋
 **`Software engineer in training`**
 - 🔭 I’m currently working on: [Bright Tasks](https://github.com/KajananGit/Bright-Tasks) & [Trading Journal](https://github.com/Y-Negash/Trading_Journal)
 - 🌱 I’m currently learning: **TypeScript**
