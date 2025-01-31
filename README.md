@@ -1,8 +1,7 @@
 # Welcome, I'm Yabbi! 👋
 **`Software engineer in training`**
 - 🔭 I’m currently working on: [Trading Journal](https://github.com/Y-Negash/Trading_Journal)
-- 🌱 I’m currently learning: **TypeScript**
-- 📝 Want to get better at: **Testing**
+- 🌱 I’m currently learning: **Docker**
 - 🛅 Just "finished" working on: [Connect Cards](https://github.com/Aebel-Shajan/connect-cards)  (go ahead and contribute, if you'd like!)
 
 <h4 align="right">Connect with me</h4>
