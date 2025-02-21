@@ -11,7 +11,6 @@
 </p>
 
 <hr />
-<p align="left"><a href="https://github.com/y-negash/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=y-negash" alt="g3root" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y-negash&show_icons=true&locale=en&layout=compact" alt="y-negash" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y-negash&show_icons=true&locale=en" alt="y-negash" /></p>
 <hr />
