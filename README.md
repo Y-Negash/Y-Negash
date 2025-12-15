@@ -2,7 +2,7 @@
 **`Software engineer in training`**
 - 🔭 I’m currently working on: [Healthcare Appointment Orchestration System (HAOS)](https://github.com/Y-Negash/HAOS))
 - 🌱 I’m currently learning: **Express + sequelize + sqlite3**
-- 🛅 Just "finished" working on: [Trading Journal] (https://github.com/Y-Negash/Trading_Journal)
+- 🛅 Just "finished" working on: [Trading Journal](https://github.com/Y-Negash/Trading_Journal)
 
 <h4 align="right">Connect with me</h4>
 <p align="right">
