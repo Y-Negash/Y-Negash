@@ -1,6 +1,6 @@
 # Welcome, I'm Yabbi! 👋
 **`Software Engineer`**
-- 🔭 I’m currently working on: [Healthcare Appointment Orchestration System (HAOS)](https://github.com/Y-Negash/HAOS))
+- 🔭 I’m currently working on: [Healthcare Appointment Orchestration System (HAOS)](https://github.com/Y-Negash/HAOS)
 - 🌱 I’m currently learning: **Multi-service Maven System**
 - 🛅 Just "finished" working on: [Trading Journal](https://github.com/Y-Negash/Trading_Journal)
 
